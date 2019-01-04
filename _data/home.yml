@@ -1,0 +1,91 @@
+
+intro:
+  lead-in: 'Creémos el futuro juntos'
+  #heading: 'Voilà !'
+  btn: 'Más información'
+
+services:
+  heading: Servicios
+  subheading: 
+  service:
+    - icon: fa fa-sliders
+      heading: Desarrollos a la medida
+      text: >-
+        Creamos aplicativos en entorno web, según las necesidades del cliente
+        buscando como resultado un aumento en su productividad y desempeño
+    - icon: fa fa-calendar
+      heading: Gestión y agendamiento de citas
+      text: >-
+        Herramientas de gestión para agendamiento de citas en la nube.
+        Software basado en una plataforma web, enfocado en agendar, registrar y
+        consultar citas médicas.
+    - icon: fa fa-cloud
+      heading: Soporte de servicios en la nube
+      text: >-
+        Con servicios en la nube usted puede reducir costos de operación,
+        eliminar tiempos de caída y disminuir el impacto de operación.
+
+portfolio:
+  heading: ¿Quiénes somos?
+  subheading: >-
+    Voilà DT nace con la idea de proporcionar a nuestros clientes
+    herramientas que faciliten y agilicen sus procesos a través de soluciones
+    prácticas adaptadas a sus necesidades; basadas en un asesoramiento honesto,
+    seguro y efectivo.
+
+about:
+  heading: Nosotros
+  timeline:
+    - image: img/logo.png
+    - image: img/aims.jpg
+      date: 
+      title: Objetivos
+      text: >-
+        Posicionarnos en el sector de la tecnología y crear soluciones que
+        contribuyan con el crecimiento de quienes nos permitan convertirnos en
+        sus socios estratégicos
+    - image: img/strength.jpg
+      date: 
+      title: Fortalezas
+      text: >-
+        La experiencia de nuestro equipo de profesionales, que garantiza
+        soluciones de alta calidad
+  end1: Creémos
+  end2: el futuro
+  end3: juntos
+
+team:
+  heading: Nuestro equipo
+  subheading:
+  members:
+    - name: María Elena Rojas B.
+      role: Gerente Comercial
+      img: img/elena.jpg
+      social-buttons:
+        - icon: fa fa-envelope
+          url: mailto:comercial@voiladt.com
+    - name: Miguel Rodríguez R.
+      role: Director de Desarrollo
+      img: img/miguel.png
+      social-buttons:
+        - icon: fa fa-globe
+          url: https://rodriguez-r.com/
+        - icon: fa fa-linkedin
+          url: https://www.linkedin.com/in/lmrodriguezr/
+        - icon: fa fa-twitter
+          url: https://twitter.com/_lrr_
+  text: 
+
+contact:
+  heading: Contáctenos
+  subheading:
+  name: Nombre
+  email: E-mail
+  phone: Teléfono
+  message: Mensaje
+  btn: Enviar
+  js-url: 'https://formspree.io/desarrollo@voiladt.com'
+  js-success: Gracias por contactarnos
+  js-error: 'Algo falló: " + firstName + "'
+  js-error-min: 'Algo falló: "+i+"'
+
