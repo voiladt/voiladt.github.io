@@ -26,7 +26,7 @@ twitter_username: voiladt
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-startbootstrap-agency
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
