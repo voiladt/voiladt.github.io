@@ -20,13 +20,13 @@ description: >-
 author: Luis Miguel Rodriguez Rojas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://voiladt.appspot.com" # the base hostname & protocol for your site, e.g. http://example.com
-host: "0.0.0.0"
+#host: "0.0.0.0"
 twitter_username: voiladt
 #github_username: voiladt
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-startbootstrap-agency
+theme: jekyll-theme-voiladt
 plugins:
   - jekyll-feed
 
